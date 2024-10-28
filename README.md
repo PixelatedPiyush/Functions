@@ -7,10 +7,7 @@
 - [Overview](#overview)
 - [Theory Questions](#theory-questions)
 - [Practical Questions](#practical-questions)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -51,6 +48,3 @@
 
 ## Usage
 **Open the notebook in Jupyter and execute the cells to review theoretical concepts and solve the practical questions. Each code cell includes comments explaining the logic and approach used in the solution.**
-
-## Contributing
-**Contributions are welcome! Feel free to fork the repository and submit pull requests if you have improvements or additional insights.**
